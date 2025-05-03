@@ -34,5 +34,5 @@ Le code a été développé principalement en **R**, mais certaines fonctions cr
 ## Références
 
 - Van Vliet, P., & Blitz, D. (2018). *The Conservative Formula: Quantitative Investing Made Easy*.  
-  [Lire l’article original (JPM)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3145152)  
+  [Lire l’article original](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3145152)  
 - WRDS, CRSP, Kenneth French Data Library
