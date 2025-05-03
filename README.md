@@ -5,6 +5,8 @@
 Ce projet a été réalisé dans le cadre du cours **GSF-3120 Séminaire en finance quantitative** à l’Université Laval.  
 L’objectif principal est de reproduire et analyser la stratégie d’investissement proposée dans l’article **The Conservative Formula** de Pim van Vliet et David Blitz, qui combine trois facteurs simples : faible volatilité, rendement net élevé et momentum.
 
+Le code a été développé principalement en **R**, mais certaines fonctions critiques ont été implémentées en **C++** (via `Rcpp`) pour accélérer le traitement de grandes quantités de données.
+
 ## Objectifs du projet
 
 - Reproduire la stratégie d’investissement conservatrice proposée dans l’article.
@@ -32,5 +34,5 @@ L’objectif principal est de reproduire et analyser la stratégie d’investiss
 ## Références
 
 - Van Vliet, P., & Blitz, D. (2018). *The Conservative Formula: Quantitative Investing Made Easy*.  
+  [Lire l’article original (JPM)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3145152)  
 - WRDS, CRSP, Kenneth French Data Library
-
