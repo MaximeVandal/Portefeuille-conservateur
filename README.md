@@ -14,14 +14,6 @@ L’objectif principal est de reproduire et analyser la stratégie d’investiss
 - Automatiser le traitement des données et l’exécution du code.
 - Présenter les résultats sous forme de rapport structuré.
 
-## Structure du projet
-
-- `Code/` → Contient les scripts R et C++ utilisés pour l’analyse et le traitement des données  
-- `data/` → Contient les fichiers .csv importés (CRSP, S&P500, T-Bills, Fama-French)  
-- `Functions/` → Contient les fonctions C++ et R pour calculs (par exemple, `get_data.cpp`, `returns.cpp`)  
-- `output/` → Contient les graphiques, tableaux et résultats finaux  
-- `Rapport_Final.pdf` → Rapport détaillé du projet et des résultats
-
 ## Méthodologie
 
 1. Importer les données financières historiques (1925–2023) depuis CRSP, WRDS et Kenneth French Data Library.
